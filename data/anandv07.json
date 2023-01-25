@@ -1,0 +1,29 @@
+{
+  "name": "Anand",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Student @ SXCCE. Enthusiastic and passionate developer",
+  "avatar": "https://github.com/anandv07.png",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/Anand07123",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow me on GitHub",
+      "url": "https://github.com/anandv07",
+      "icon": "FaGitHub"
+    },
+    {
+      "name": "Follow me on HashNode",
+      "url": "https://anandv07.hashnode.dev/",
+      "icon": "SiHashnode"
+    },
+    {
+      "name": "Leetcode profile",
+      "url": "https://leetcode.com/Anandv07",
+      "icon": "SiLeetcode"
+    }
+  ]
+}
